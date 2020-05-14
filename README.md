@@ -1,5 +1,9 @@
 # NgrxExample
 
+An example app I built while learning about [NgRx](https://ngrx.io/), a state management library for Angular inspired by [Redux](https://redux.js.org/), which utilises [RxJS](https://rxjs.dev/) [observables](https://rxjs.dev/guide/observable).
+
+<hr>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
 ## Development server
